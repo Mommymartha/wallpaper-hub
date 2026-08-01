@@ -1,0 +1,5 @@
+controller/local_config.json
+dist/
+build/
+__pycache__/
+*.pyc
