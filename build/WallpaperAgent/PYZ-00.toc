@@ -876,6 +876,22 @@
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\threading.py',
    'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
   ('token',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\token.py',

@@ -1,8 +1,316 @@
 ('C:\\Users\\Shavez '
  'Ali\\Downloads\\wallpaper-fleet-manager\\wallpaper-fleet-manager\\build\\WallpaperController\\PYZ-00.pyz',
- [('__future__',
+ [('PIL',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.AvifImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\AvifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('__future__',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_aix_support.py',
    'PYMODULE'),
   ('_colorize',
    'C:\\Users\\Shavez '
@@ -31,6 +339,14 @@
   ('_pydecimal',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyrepl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\__init__.py',
+   'PYMODULE'),
+  ('_pyrepl.pager',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pyrepl\\pager.py',
    'PYMODULE'),
   ('_strptime',
    'C:\\Users\\Shavez '
@@ -180,6 +496,10 @@
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\base64.py',
    'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\bdb.py',
+   'PYMODULE'),
   ('bisect',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\bisect.py',
@@ -231,6 +551,22 @@
   ('charset_normalizer.version',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\colorsys.py',
    'PYMODULE'),
   ('concurrent',
    'C:\\Users\\Shavez '
@@ -292,9 +628,229 @@
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\__init__.py',
    'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
   ('ctypes._endian',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('customtkinter',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.ctk_input_dialog',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\ctk_input_dialog.py',
+   'PYMODULE'),
+  ('customtkinter.windows.ctk_tk',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\ctk_tk.py',
+   'PYMODULE'),
+  ('customtkinter.windows.ctk_toplevel',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\ctk_toplevel.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.appearance_mode',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\appearance_mode\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.appearance_mode.appearance_mode_base_class',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\appearance_mode\\appearance_mode_base_class.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.appearance_mode.appearance_mode_tracker',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\appearance_mode\\appearance_mode_tracker.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.core_rendering',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_rendering\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.core_rendering.ctk_canvas',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_rendering\\ctk_canvas.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.core_rendering.draw_engine',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_rendering\\draw_engine.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.core_widget_classes',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_widget_classes\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.core_widget_classes.ctk_base_class',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_widget_classes\\ctk_base_class.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.core_widget_classes.dropdown_menu',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_widget_classes\\dropdown_menu.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_button',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_button.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_checkbox',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_checkbox.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_combobox',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_combobox.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_entry',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_entry.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_frame',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_frame.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_label',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_label.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_optionmenu',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_optionmenu.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_progressbar',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_progressbar.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_radiobutton',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_radiobutton.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_scrollable_frame',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_scrollable_frame.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_scrollbar',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_scrollbar.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_segmented_button',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_segmented_button.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_slider',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_slider.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_switch',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_switch.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_tabview',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_tabview.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_textbox',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_textbox.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.font',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\font\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.font.ctk_font',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\font\\ctk_font.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.font.font_manager',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\font\\font_manager.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.image',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\image\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.image.ctk_image',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\image\\ctk_image.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.scaling',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\scaling\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.scaling.scaling_base_class',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\scaling\\scaling_base_class.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.scaling.scaling_tracker',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\scaling\\scaling_tracker.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.theme',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\theme\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.theme.theme_manager',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\theme\\theme_manager.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.utility',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\utility\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.utility.utility_functions',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\customtkinter\\windows\\widgets\\utility\\utility_functions.py',
+   'PYMODULE'),
+  ('darkdetect',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\darkdetect\\__init__.py',
+   'PYMODULE'),
+  ('darkdetect._dummy',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\darkdetect\\_dummy.py',
+   'PYMODULE'),
+  ('darkdetect._linux_detect',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\darkdetect\\_linux_detect.py',
+   'PYMODULE'),
+  ('darkdetect._mac_detect',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\darkdetect\\_mac_detect.py',
+   'PYMODULE'),
+  ('darkdetect._windows_detect',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\darkdetect\\_windows_detect.py',
    'PYMODULE'),
   ('dataclasses',
    'C:\\Users\\Shavez '
@@ -308,9 +864,57 @@
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\decimal.py',
    'PYMODULE'),
+  ('defusedxml',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\defusedxml\\__init__.py',
+   'PYMODULE'),
+  ('defusedxml.ElementTree',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\defusedxml\\ElementTree.py',
+   'PYMODULE'),
+  ('defusedxml.cElementTree',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\defusedxml\\cElementTree.py',
+   'PYMODULE'),
+  ('defusedxml.common',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\defusedxml\\common.py',
+   'PYMODULE'),
+  ('defusedxml.expatbuilder',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\defusedxml\\expatbuilder.py',
+   'PYMODULE'),
+  ('defusedxml.expatreader',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\defusedxml\\expatreader.py',
+   'PYMODULE'),
+  ('defusedxml.minidom',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\defusedxml\\minidom.py',
+   'PYMODULE'),
+  ('defusedxml.pulldom',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\defusedxml\\pulldom.py',
+   'PYMODULE'),
+  ('defusedxml.sax',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\defusedxml\\sax.py',
+   'PYMODULE'),
+  ('defusedxml.xmlrpc',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\defusedxml\\xmlrpc.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\difflib.py',
+   'PYMODULE'),
   ('dis',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\dis.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\doctest.py',
    'PYMODULE'),
   ('email',
    'C:\\Users\\Shavez '
@@ -392,6 +996,10 @@
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\utils.py',
    'PYMODULE'),
+  ('fileinput',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\fileinput.py',
+   'PYMODULE'),
   ('fnmatch',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\fnmatch.py',
@@ -432,6 +1040,14 @@
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\hmac.py',
    'PYMODULE'),
+  ('html',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\html\\entities.py',
+   'PYMODULE'),
   ('http',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\__init__.py',
@@ -447,6 +1063,10 @@
   ('http.cookies',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\server.py',
    'PYMODULE'),
   ('idna',
    'C:\\Users\\Shavez '
@@ -588,6 +1208,10 @@
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\logging\\__init__.py',
    'PYMODULE'),
+  ('logging.handlers',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\logging\\handlers.py',
+   'PYMODULE'),
   ('lzma',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\lzma.py',
@@ -700,9 +1324,585 @@
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\numbers.py',
    'PYMODULE'),
+  ('numpy',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._array_api_info',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_array_api_info.py',
+   'PYMODULE'),
+  ('numpy._core',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs_scalars',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy._core._asarray',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy._core._dtype',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy._core._dtype_ctypes',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._core._exceptions',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy._core._internal',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\_internal.py',
+   'PYMODULE'),
+  ('numpy._core._machar',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\_machar.py',
+   'PYMODULE'),
+  ('numpy._core._methods',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\_methods.py',
+   'PYMODULE'),
+  ('numpy._core._string_helpers',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy._core._type_aliases',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy._core._ufunc_config',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy._core.arrayprint',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy._core.defchararray',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._core.einsumfunc',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy._core.fromnumeric',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy._core.function_base',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\function_base.py',
+   'PYMODULE'),
+  ('numpy._core.getlimits',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy._core.memmap',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\memmap.py',
+   'PYMODULE'),
+  ('numpy._core.multiarray',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy._core.numeric',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\numeric.py',
+   'PYMODULE'),
+  ('numpy._core.numerictypes',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy._core.overrides',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\overrides.py',
+   'PYMODULE'),
+  ('numpy._core.printoptions',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\printoptions.py',
+   'PYMODULE'),
+  ('numpy._core.records',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\records.py',
+   'PYMODULE'),
+  ('numpy._core.shape_base',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy._core.strings',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\strings.py',
+   'PYMODULE'),
+  ('numpy._core.umath',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\umath.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._expired_attrs_2_0',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_expired_attrs_2_0.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit_base',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_typing\\_nbit_base.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._typing._ufunc',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_typing\\_ufunc.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._convertions',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.char',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\char\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._utils',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\core\\_utils.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\ctypeslib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib._ctypeslib',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\ctypeslib\\_ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._backend',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\_backends\\_backend.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._distutils',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\_backends\\_distutils.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._meson',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\_backends\\_meson.py',
+   'PYMODULE'),
+  ('numpy.f2py._isocbind',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\_isocbind.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.symbolic',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\symbolic.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._helper',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._array_utils_impl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_array_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraypad_impl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_arraypad_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraysetops_impl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_arraysetops_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arrayterator_impl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_arrayterator_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._format_impl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_format_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._function_base_impl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_function_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._histograms_impl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_histograms_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._index_tricks_impl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_index_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._nanfunctions_impl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_nanfunctions_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._npyio_impl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_npyio_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._polynomial_impl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_polynomial_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._scimath_impl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_scimath_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._shape_base_impl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_shape_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._stride_tricks_impl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_stride_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._twodim_base_impl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_twodim_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._type_check_impl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_type_check_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._ufunclike_impl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_ufunclike_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._utils_impl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.array_utils',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\array_utils.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.introspect',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\introspect.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg._linalg',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\linalg\\_linalg.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matlib',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\matlib.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.rec',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\rec\\__init__.py',
+   'PYMODULE'),
+  ('numpy.strings',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\strings\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
   ('opcode',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\packaging\\version.py',
    'PYMODULE'),
   ('pathlib',
    'C:\\Users\\Shavez '
@@ -715,6 +1915,10 @@
   ('pathlib._local',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_local.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pdb.py',
    'PYMODULE'),
   ('pickle',
    'C:\\Users\\Shavez '
@@ -732,9 +1936,177 @@
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pprint.py',
    'PYMODULE'),
+  ('psutil',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\psutil\\__init__.py',
+   'PYMODULE'),
+  ('psutil._common',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\psutil\\_common.py',
+   'PYMODULE'),
+  ('psutil._pswindows',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\psutil\\_pswindows.py',
+   'PYMODULE'),
   ('py_compile',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pyreadline3',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.clipboard',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.clipboard.api',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\clipboard\\api.py',
+   'PYMODULE'),
+  ('pyreadline3.clipboard.get_clipboard_text_and_convert',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\clipboard\\get_clipboard_text_and_convert.py',
+   'PYMODULE'),
+  ('pyreadline3.clipboard.ironpython_clipboard',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\clipboard\\ironpython_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline3.clipboard.no_clipboard',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\clipboard\\no_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline3.clipboard.win32_clipboard',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\clipboard\\win32_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline3.console',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\console\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.console.ansi',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\console\\ansi.py',
+   'PYMODULE'),
+  ('pyreadline3.console.console',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\console\\console.py',
+   'PYMODULE'),
+  ('pyreadline3.console.event',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\console\\event.py',
+   'PYMODULE'),
+  ('pyreadline3.console.ironpython_console',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\console\\ironpython_console.py',
+   'PYMODULE'),
+  ('pyreadline3.error',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\error.py',
+   'PYMODULE'),
+  ('pyreadline3.keysyms',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\keysyms\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.keysyms.common',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\keysyms\\common.py',
+   'PYMODULE'),
+  ('pyreadline3.keysyms.ironpython_keysyms',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\keysyms\\ironpython_keysyms.py',
+   'PYMODULE'),
+  ('pyreadline3.keysyms.keysyms',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\keysyms\\keysyms.py',
+   'PYMODULE'),
+  ('pyreadline3.keysyms.winconstants',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\keysyms\\winconstants.py',
+   'PYMODULE'),
+  ('pyreadline3.lineeditor',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\lineeditor\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.lineeditor.history',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\lineeditor\\history.py',
+   'PYMODULE'),
+  ('pyreadline3.lineeditor.lineobj',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\lineeditor\\lineobj.py',
+   'PYMODULE'),
+  ('pyreadline3.lineeditor.wordmatcher',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\lineeditor\\wordmatcher.py',
+   'PYMODULE'),
+  ('pyreadline3.logger',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\logger\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.logger.control',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\logger\\control.py',
+   'PYMODULE'),
+  ('pyreadline3.logger.log',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\logger\\log.py',
+   'PYMODULE'),
+  ('pyreadline3.logger.logger',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\logger\\logger.py',
+   'PYMODULE'),
+  ('pyreadline3.logger.null_handler',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\logger\\null_handler.py',
+   'PYMODULE'),
+  ('pyreadline3.logger.socket_stream',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\logger\\socket_stream.py',
+   'PYMODULE'),
+  ('pyreadline3.modes',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\modes\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.modes.basemode',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\modes\\basemode.py',
+   'PYMODULE'),
+  ('pyreadline3.modes.emacs',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\modes\\emacs.py',
+   'PYMODULE'),
+  ('pyreadline3.modes.notemacs',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\modes\\notemacs.py',
+   'PYMODULE'),
+  ('pyreadline3.modes.vi',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\modes\\vi.py',
+   'PYMODULE'),
+  ('pyreadline3.py3k_compat',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\py3k_compat.py',
+   'PYMODULE'),
+  ('pyreadline3.rlmain',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\rlmain.py',
+   'PYMODULE'),
+  ('pyreadline3.unicode_helper',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3\\unicode_helper.py',
    'PYMODULE'),
   ('queue',
    'C:\\Users\\Shavez '
@@ -747,6 +2119,10 @@
   ('random',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\random.py',
+   'PYMODULE'),
+  ('readline',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\readline.py',
    'PYMODULE'),
   ('requests',
    'C:\\Users\\Shavez '
@@ -816,6 +2192,10 @@
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests\\utils.py',
    'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\rlcompleter.py',
+   'PYMODULE'),
   ('runpy',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\runpy.py',
@@ -828,6 +2208,10 @@
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\selectors.py',
    'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\shlex.py',
+   'PYMODULE'),
   ('shutil',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\shutil.py',
@@ -836,9 +2220,17 @@
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\signal.py',
    'PYMODULE'),
+  ('smtplib',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\smtplib.py',
+   'PYMODULE'),
   ('socket',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\socketserver.py',
    'PYMODULE'),
   ('ssl',
    'C:\\Users\\Shavez '
@@ -860,6 +2252,10 @@
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\subprocess.py',
    'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sysconfig\\__init__.py',
+   'PYMODULE'),
   ('tarfile',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tarfile.py',
@@ -875,6 +2271,10 @@
   ('threading',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\threading.py',
+   'PYMODULE'),
+  ('threadpoolctl',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\threadpoolctl.py',
    'PYMODULE'),
   ('tkinter',
    'C:\\Users\\Shavez '
@@ -896,6 +2296,10 @@
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\filedialog.py',
    'PYMODULE'),
+  ('tkinter.font',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\font.py',
+   'PYMODULE'),
   ('tkinter.messagebox',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\messagebox.py',
@@ -903,6 +2307,10 @@
   ('tkinter.simpledialog',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tkinter\\ttk.py',
    'PYMODULE'),
   ('token',
    'C:\\Users\\Shavez '
@@ -916,6 +2324,10 @@
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tracemalloc.py',
    'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tty.py',
+   'PYMODULE'),
   ('typing',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\typing.py',
@@ -923,6 +2335,50 @@
   ('typing_extensions',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\unittest\\util.py',
    'PYMODULE'),
   ('urllib',
    'C:\\Users\\Shavez '
@@ -1088,9 +2544,77 @@
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\urllib3\\util\\wait.py',
    'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('win32con',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32evtlogutil',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\win32\\lib\\win32evtlogutil.py',
+   'PYMODULE'),
+  ('winerror',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
   ('xml',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\etree\\cElementTree.py',
    'PYMODULE'),
   ('xml.parsers',
    'C:\\Users\\Shavez '
@@ -1131,6 +2655,78 @@
   ('xmlrpc.client',
    'C:\\Users\\Shavez '
    'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc.server',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xmlrpc\\server.py',
+   'PYMODULE'),
+  ('yaml',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yaml\\__init__.py',
+   'PYMODULE'),
+  ('yaml.composer',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yaml\\composer.py',
+   'PYMODULE'),
+  ('yaml.constructor',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yaml\\constructor.py',
+   'PYMODULE'),
+  ('yaml.cyaml',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yaml\\cyaml.py',
+   'PYMODULE'),
+  ('yaml.dumper',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yaml\\dumper.py',
+   'PYMODULE'),
+  ('yaml.emitter',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yaml\\emitter.py',
+   'PYMODULE'),
+  ('yaml.error',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yaml\\error.py',
+   'PYMODULE'),
+  ('yaml.events',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yaml\\events.py',
+   'PYMODULE'),
+  ('yaml.loader',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yaml\\loader.py',
+   'PYMODULE'),
+  ('yaml.nodes',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yaml\\nodes.py',
+   'PYMODULE'),
+  ('yaml.parser',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yaml\\parser.py',
+   'PYMODULE'),
+  ('yaml.reader',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yaml\\reader.py',
+   'PYMODULE'),
+  ('yaml.representer',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yaml\\representer.py',
+   'PYMODULE'),
+  ('yaml.resolver',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yaml\\resolver.py',
+   'PYMODULE'),
+  ('yaml.scanner',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yaml\\scanner.py',
+   'PYMODULE'),
+  ('yaml.serializer',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yaml\\serializer.py',
+   'PYMODULE'),
+  ('yaml.tokens',
+   'C:\\Users\\Shavez '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yaml\\tokens.py',
    'PYMODULE'),
   ('zipfile',
    'C:\\Users\\Shavez '

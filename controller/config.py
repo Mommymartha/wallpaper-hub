@@ -4,7 +4,11 @@ import json
 import tkinter as tk
 from tkinter import simpledialog, messagebox
 
-TOKEN_FILE = os.path.join(os.path.dirname(__file__), "local_config.json")
+_HOME = os.path.expanduser("~")
+_CONFIG_DIR = os.path.join(_HOME, ".wallpaper_controller")
+os.makedirs(_CONFIG_DIR, exist_ok=True)
+
+TOKEN_FILE = os.path.join(_CONFIG_DIR, "local_config.json")
 
 def load_github_token():
     # 1. Check local config file first

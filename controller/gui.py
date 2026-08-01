@@ -1,56 +1,127 @@
-"""
-controller/gui.py
-
-Single-Operator Wallpaper Fleet Controller.
-"""
-
-from __future__ import annotations
-
 import os
 import sys
 import tkinter as tk
 from tkinter import filedialog, messagebox
 
+import customtkinter as ctk
+
 from . import config
 from . import main as controller_main
 
+# --- Global appearance ---------------------------------------------------
+ctk.set_appearance_mode("dark")
+ctk.set_default_color_theme("blue")
+
+ACCENT_GREEN = "#2FA572"
+ACCENT_GREEN_HOVER = "#268F62"
+FONT_FAMILY = "Segoe UI"
+
 
 class ControllerApp:
-    def __init__(self, root: tk.Tk) -> None:
+    def __init__(self, root: ctk.CTk) -> None:
         self.root = root
         self.root.title("Wallpaper Fleet Controller")
-        self.root.geometry("450x260")
+        self.root.geometry("480x400")
         self.root.resizable(False, False)
 
         self.image_path = tk.StringVar()
 
-        # UI Layout
-        tk.Label(root, text="Wallpaper Fleet Management Hub", font=("Arial", 12, "bold")).pack(pady=10)
+        # --- Header -------------------------------------------------
+        header = ctk.CTkFrame(root, fg_color="transparent")
+        header.pack(fill="x", padx=24, pady=(24, 8))
 
-        # Image Selection Frame
-        frame_img = tk.LabelFrame(root, text=" Target Wallpaper ", font=("Arial", 9, "bold"))
-        frame_img.pack(fill="x", padx=20, pady=10, ipadx=10, ipady=10)
+        ctk.CTkLabel(
+            header,
+            text="Wallpaper Fleet Management Hub",
+            font=(FONT_FAMILY, 18, "bold"),
+        ).pack(anchor="w")
 
-        tk.Label(frame_img, text="Wallpaper Image File:").pack(anchor="w")
-        
-        path_box = tk.Frame(frame_img)
-        path_box.pack(fill="x", pady=5)
-        tk.Entry(path_box, textvariable=self.image_path, width=35).pack(side="left", padx=(0, 5))
-        tk.Button(path_box, text="Browse", command=self.browse_image).pack(side="left")
+        ctk.CTkLabel(
+            header,
+            text="Publish a new wallpaper to every machine in the fleet.",
+            font=(FONT_FAMILY, 12),
+            text_color="#9AA0A6",
+        ).pack(anchor="w", pady=(2, 0))
 
-        tk.Label(frame_img, text="Update Note:").pack(anchor="w", pady=(5, 0))
-        self.entry_msg = tk.Entry(frame_img, width=47)
-        self.entry_msg.pack(pady=5)
+        # --- Card: Target Wallpaper ----------------------------------
+        card = ctk.CTkFrame(root, corner_radius=14)
+        card.pack(fill="x", padx=24, pady=16)
+
+        ctk.CTkLabel(
+            card,
+            text="TARGET WALLPAPER",
+            font=(FONT_FAMILY, 11, "bold"),
+            text_color="#9AA0A6",
+        ).pack(anchor="w", padx=20, pady=(18, 4))
+
+        ctk.CTkLabel(
+            card,
+            text="Wallpaper Image File",
+            font=(FONT_FAMILY, 12),
+        ).pack(anchor="w", padx=20, pady=(6, 4))
+
+        path_box = ctk.CTkFrame(card, fg_color="transparent")
+        path_box.pack(fill="x", padx=20, pady=(0, 4))
+        path_box.grid_columnconfigure(0, weight=1)
+
+        self.entry_path = ctk.CTkEntry(
+            path_box,
+            textvariable=self.image_path,
+            placeholder_text="No file selected",
+            height=36,
+            corner_radius=8,
+        )
+        self.entry_path.grid(row=0, column=0, sticky="ew", padx=(0, 8))
+
+        ctk.CTkButton(
+            path_box,
+            text="Browse",
+            width=90,
+            height=36,
+            corner_radius=8,
+            command=self.browse_image,
+        ).grid(row=0, column=1)
+
+        ctk.CTkLabel(
+            card,
+            text="Update Note",
+            font=(FONT_FAMILY, 12),
+        ).pack(anchor="w", padx=20, pady=(14, 4))
+
+        self.entry_msg = ctk.CTkEntry(
+            card,
+            height=36,
+            corner_radius=8,
+        )
+        self.entry_msg.pack(fill="x", padx=20, pady=(0, 20))
         self.entry_msg.insert(0, "Fleet wallpaper update")
 
-        # Push Button
-        self.btn_push = tk.Button(root, text="Push to Fleet", bg="#28a745", fg="white", font=("Arial", 10, "bold"), command=self.push)
-        self.btn_push.pack(pady=10, ipadx=15, ipady=3)
+        # --- Push button ------------------------------------------------
+        self.btn_push = ctk.CTkButton(
+            root,
+            text="Push to Fleet",
+            font=(FONT_FAMILY, 13, "bold"),
+            height=44,
+            corner_radius=10,
+            fg_color=ACCENT_GREEN,
+            hover_color=ACCENT_GREEN_HOVER,
+            command=self.push,
+        )
+        self.btn_push.pack(fill="x", padx=24, pady=(4, 8))
+
+        # --- Status line --------------------------------------------------
+        self.status_label = ctk.CTkLabel(
+            root,
+            text="",
+            font=(FONT_FAMILY, 11),
+            text_color="#9AA0A6",
+        )
+        self.status_label.pack(pady=(0, 12))
 
     def browse_image(self) -> None:
         file_path = filedialog.askopenfilename(
             title="Select Wallpaper Image",
-            filetypes=[("Image Files", "*.jpg *.jpeg *.png")]
+            filetypes=[("Image Files", "*.jpg *.jpeg *.png")],
         )
         if file_path:
             self.image_path.set(file_path)
@@ -64,21 +135,24 @@ class ControllerApp:
             return
 
         try:
-            self.btn_push.config(state="disabled", text="Pushing...")
+            self.btn_push.configure(state="disabled", text="Pushing...")
+            self.status_label.configure(text="Publishing update to the fleet...")
             self.root.update()
 
             controller_main.push_wallpaper(path, msg)
 
             messagebox.showinfo("Success", "Fleet update published successfully!")
             self.image_path.set("")
+            self.status_label.configure(text="Last push succeeded.")
         except Exception as e:
             messagebox.showerror("Deployment Failed", str(e))
+            self.status_label.configure(text="Last push failed.")
         finally:
-            self.btn_push.config(state="normal", text="Push to Fleet")
+            self.btn_push.configure(state="normal", text="Push to Fleet")
 
 
 def main() -> int:
-    root = tk.Tk()
+    root = ctk.CTk()
     app = ControllerApp(root)
     root.mainloop()
     return 0
