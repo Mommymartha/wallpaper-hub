@@ -240,10 +240,6 @@
    'C:\\Users\\Shavez '
    'Ali\\Downloads\\wallpaper-fleet-manager\\wallpaper-fleet-manager\\client\\config.py',
    'PYMODULE'),
-  ('client.main_agent',
-   'C:\\Users\\Shavez '
-   'Ali\\Downloads\\wallpaper-fleet-manager\\wallpaper-fleet-manager\\client\\main_agent.py',
-   'PYMODULE'),
   ('client.updater',
    'C:\\Users\\Shavez '
    'Ali\\Downloads\\wallpaper-fleet-manager\\wallpaper-fleet-manager\\client\\updater.py',

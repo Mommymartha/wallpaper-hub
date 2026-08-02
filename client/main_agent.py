@@ -29,8 +29,8 @@ import subprocess
 import tkinter as tk
 from tkinter import messagebox
 
-from . import config
-from . import updater
+from client import config
+from client import updater
 
 # Define permanent installation directory
 PERM_DIR = os.path.join(os.environ["LOCALAPPDATA"], "WallpaperFleetManager")
